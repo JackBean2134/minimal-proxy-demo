@@ -1,0 +1,17 @@
+# Foundry 编译输出与缓存
+out/
+cache/
+artifacts/
+
+# 依赖（clone 后用 forge install 恢复，不入库）
+lib/
+node_modules/
+
+# 环境变量与密钥
+.env
+.env.local
+
+# 编辑器/系统杂项
+.DS_Store
+.idea/
+.vscode/
